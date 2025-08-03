@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">
-  Detail++: Progressive Detail Injection for Training-Free Semantic Binding in Text-to-Image Generation<br>
+  Detail++: Training-Free Detail Enhancer for Text-to-Image Diffusion Models<br>
   </h1>
   <p align="center">
     <strong>Lifeng Chen</strong><sup>1</sup>
